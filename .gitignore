@@ -3,6 +3,4 @@
 *.iml
 *.ipr
 *.iws
-gradlew
-gradlew.bat
 app/build/*
