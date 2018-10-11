@@ -1,4 +1,6 @@
-.idea/*
+.idea/*.xml
+.idea/caches/*
+.idea/libraries/*
 .gradle/*
 *.iml
 *.ipr
