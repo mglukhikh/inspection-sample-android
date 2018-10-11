@@ -1,7 +1,7 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {
-    ext.kotlin_version = '1.2.50'
+    ext.kotlin_version = '1.2.61'
     repositories {
         google()
         maven { url 'https://dl.bintray.com/kotlin/kotlin-dev' }
@@ -21,7 +21,7 @@ allprojects {
 
     inspections {
         inheritFromIdea = true
-        idea.version = "ideaIC:2018.1"
+        idea.version = "ideaIC:2018.2.4"
     }
     repositories {
         google()
